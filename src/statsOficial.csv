@@ -1,0 +1,442 @@
+Player,Tm,Pos,Age,G,GS,MP,FG,FGA,3P,3PA,2P,2PA,FT,FTA,DRB,AST,TOV,PTS,Predict_salario,Real_salario,Diferencia_%,Image_URL
+Precious Achiuwa,TOT,P,24,56,17,1276,3,6,0,1,3,5,0,1,3,1,1,8,4830726,4379527,"-10,302465779156222",
+Bam Adebayo,Miami Heat,P,26,53,53,1835,7,14,0,0,7,14,4,6,8,4,2,19,26286284,32600060,"19,367375347280547",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIA-2024.png
+Ochai Agbaji,TOT,ES,23,63,14,1208,2,5,0,2,1,2,0,0,1,0,0,5,3226214,4114200,"21,583439400746414",
+Santi Aldama,Memphis Grizzlies,AP,23,52,26,1334,4,9,1,4,2,4,0,1,4,2,1,10,5816237,2194200,"-165,0732806604943",https://cdn.ssref.net/req/202312151/tlogo/bbr/MEM-2024.png
+Grayson Allen,Phoenix Suns,ES,28,58,58,1949,4,8,2,5,1,3,1,1,3,3,1,13,12590597,8500000,"-48,12467350347737",https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-2024.png
+Jarrett Allen,Cleveland Cavaliers,P,25,58,58,1836,6,10,0,0,6,10,3,4,7,2,1,16,21170726,20000000,"-5,8536345295576195",https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-2024.png
+Jose Alvarado,New Orleans Pelicans,BA,25,42,0,723,2,6,1,3,1,2,0,1,1,2,0,6,4123159,1836096,"-124,56119703349142",https://cdn.ssref.net/req/202312151/tlogo/bbr/NOP-2024.png
+Kyle Anderson,Minnesota Timberwolves,AP,30,62,6,1382,2,5,0,0,2,4,1,1,2,4,1,6,7659400,9219512,"16,921839537457775",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIN-2024.png
+Cole Anthony,Orlando Magic,BA,23,63,0,1448,4,9,1,3,3,6,2,3,3,3,1,11,6168185,5539771,"-11,34368210793387",https://cdn.ssref.net/req/202312151/tlogo/bbr/ORL-2024.png
+OG Anunoby,TOT,AL,26,41,41,1400,5,11,2,5,3,6,1,2,3,2,1,15,16133640,18642857,"13,459400438964852",
+Ryan Arcidiacono,New York Knicks,BA,29,20,0,45,0,0,0,0,0,0,0,0,0,0,0,0,4043319,2528233,"-59,92671312346957",https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-2024.png
+Deni Avdija,Washington Wizards,AL,23,60,60,1723,5,10,1,2,3,7,2,3,5,3,2,13,11159059,6263188,"-78,16900125076316",https://cdn.ssref.net/req/202312151/tlogo/bbr/WAS-2024.png
+Deandre Ayton,Portland Trail Blazers,P,25,41,41,1303,6,11,0,0,6,11,1,1,7,1,1,14,23666896,32459438,"27,087781055066674",https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-2024.png
+Marvin Bagley III,TOT,P,24,44,22,932,4,8,0,0,4,7,2,2,3,1,1,11,10474919,12500000,"16,200646928405746",
+Patrick Baldwin Jr.,Washington Wizards,AL,21,20,0,152,0,2,0,1,0,1,0,0,1,0,0,2,2690640,2337720,"-15,096787796745428",https://cdn.ssref.net/req/202312151/tlogo/bbr/WAS-2024.png
+LaMelo Ball,Charlotte Hornets,BA,22,22,22,711,8,19,3,8,5,10,4,4,3,8,3,23,12644817,10900635,"-16,000746627816355",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHO-2024.png
+Mo Bamba,Philadelphia 76ers,P,25,41,4,456,1,3,0,0,1,2,0,0,2,0,0,3,3300637,2346614,"-40,65530259469992",https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-2024.png
+Paolo Banchero,Orlando Magic,AP,21,62,62,2161,8,17,1,4,6,13,5,7,5,5,3,22,9530077,11608080,"17,90134204627371",https://cdn.ssref.net/req/202312151/tlogo/bbr/ORL-2024.png
+Desmond Bane,Memphis Grizzlies,ES,25,37,37,1277,8,18,3,8,5,10,3,3,3,5,2,24,24521271,3845083,"-537,7306074173741",https://cdn.ssref.net/req/202312151/tlogo/bbr/MEM-2024.png
+Dalano Banton,TOT,BA,24,36,5,448,2,5,0,1,1,3,1,1,1,1,0,6,3390523,2019706,"-67,87214606219027",
+Dominick Barlow,San Antonio Spurs,AP,20,26,1,350,1,3,0,0,1,3,1,1,2,1,0,4,3177381,877065,"-262,27432929460474",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAS-2024.png
+Harrison Barnes,Sacramento Kings,AP,31,62,62,1815,4,8,1,4,2,3,1,2,2,1,0,12,14381160,17000000,"15,404937318470417",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAC-2024.png
+Scottie Barnes,Toronto Raptors,ES,22,60,60,2094,7,15,1,4,5,10,3,4,5,6,2,19,9543995,8008560,"-19,1724304108904",https://cdn.ssref.net/req/202312151/tlogo/bbr/TOR-2024.png
+RJ Barrett,TOT,ES,23,52,52,1637,7,14,1,4,5,10,3,4,4,3,1,19,14733772,23883929,"38,31093509497205",
+Charles Bassey,San Antonio Spurs,P,23,19,0,205,1,2,0,0,1,2,0,0,2,1,0,3,3035965,2500000,"-21,438611526456068",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAS-2024.png
+Keita Bates-Diop,TOT,AL,28,48,8,648,1,3,0,1,1,2,0,0,1,0,0,4,4951705,2346614,"-111,01492739613509",
+Nicolas Batum,TOT,AP,35,42,30,1022,1,4,1,2,0,1,0,0,2,2,0,5,7974186,11710818,"31,90751919441106",
+Darius Bazley,Philadelphia 76ers,AP,23,3,0,10,0,0,0,0,0,0,0,0,0,0,0,0,2098041,124425,"-1586,1900734018745",https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-2024.png
+Bradley Beal,Phoenix Suns,ES,30,35,35,1141,7,14,1,4,5,10,2,3,3,4,2,18,31844349,46741590,"31,871488623379296",https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-2024.png
+Malik Beasley,Milwaukee Bucks,ES,27,62,62,1836,4,8,2,6,1,2,0,0,3,1,0,11,9442524,2709849,"-248,45205340103914",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-2024.png
+MarJon Beauchamp,Milwaukee Bucks,AL,23,45,1,589,1,3,0,1,1,1,0,0,1,0,0,4,2910669,2609400,"-11,545544624130867",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-2024.png
+Patrick Beverley,TOT,BA,35,59,6,1137,2,5,0,2,1,2,1,1,2,2,1,6,8099682,3196448,"-153,39635965812616",
+Saddiq Bey,Atlanta Hawks,AL,24,62,50,2035,4,11,1,5,2,5,2,3,3,1,0,13,10331968,4556983,"-126,72825460495358",https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-2024.png
+Goga Bitadze,Orlando Magic,P,24,52,33,906,2,3,0,0,2,3,1,1,3,1,0,5,3666423,2066585,"-77,4146100666287",https://cdn.ssref.net/req/202312151/tlogo/bbr/ORL-2024.png
+Onuralp Bitim,Chicago Bulls,ES,24,8,0,96,1,3,1,2,0,0,0,0,1,0,0,3,2684231,895708,"-199,6771163883023",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-2024.png
+Bismack Biyombo,TOT,P,31,34,27,741,2,3,0,0,2,3,0,1,4,1,1,4,8256818,1194075,"-591,4823718502",
+Anthony Black,Orlando Magic,BA,20,58,33,1077,1,3,0,1,1,2,0,1,1,1,0,5,3548921,7245480,"51,01881463116644",https://cdn.ssref.net/req/202312151/tlogo/bbr/ORL-2024.png
+Bol Bol,Phoenix Suns,AP,24,26,0,291,2,3,0,1,2,2,0,0,2,0,0,5,3588320,2165000,"-65,74229147537295",https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-2024.png
+Marques Bolden,TOT,P,25,3,0,16,0,0,0,0,0,0,0,0,0,0,0,0,2428904,244502,"-893,4087936131046",
+Devin Booker,Phoenix Suns,BA,27,50,50,1788,9,19,2,5,7,13,6,6,3,6,2,27,31739478,36016200,"11,874439649171423",https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-2024.png
+Chris Boucher,Toronto Raptors,AP,31,50,0,705,2,4,0,1,1,2,1,1,2,0,0,6,6697644,11750000,"42,99877319153935",https://cdn.ssref.net/req/202312151/tlogo/bbr/TOR-2024.png
+James Bouknight,Charlotte Hornets,ES,23,14,0,81,1,2,0,2,0,0,0,0,0,0,0,3,2574151,4570080,"43,67381424606255",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHO-2024.png
+Jamaree Bouyea,Portland Trail Blazers,BA,24,6,0,57,0,3,0,1,0,2,0,0,1,1,1,1,3904964,35389,"-10934,401359623474",https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-2024.png
+Malaki Branham,San Antonio Spurs,BA,20,59,23,1228,3,8,1,3,2,4,0,0,1,2,1,9,4570254,3071880,"-48,77710511289912",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAS-2024.png
+Christian Braun,Denver Nuggets,ES,22,64,1,1225,2,5,0,1,1,3,1,1,2,1,0,6,3283646,2949120,"-11,34326929863036",https://cdn.ssref.net/req/202312151/tlogo/bbr/DEN-2024.png
+Mikal Bridges,Brooklyn Nets,AL,27,64,64,2265,7,16,2,7,4,9,3,4,3,3,2,20,23668317,21700000,"-9,070589448209319",https://cdn.ssref.net/req/202312151/tlogo/bbr/BRK-2024.png
+Miles Bridges,Charlotte Hornets,AL,25,53,51,1985,8,17,2,6,5,11,2,3,6,3,2,21,18019390,7921300,"-127,48021284267259",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHO-2024.png
+Oshae Brissett,Boston Celtics,AL,25,40,0,427,1,2,0,1,0,1,0,1,1,0,0,3,3277966,2165000,"-51,40724518177947",https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-2024.png
+Izaiah Brockington,New Orleans Pelicans,BA,24,1,0,3,2,5,0,1,2,4,0,0,1,0,0,4,4669352,64343,"-7156,969725773757",https://cdn.ssref.net/req/202312151/tlogo/bbr/NOP-2024.png
+Malcolm Brogdon,Portland Trail Blazers,BA,31,39,25,1121,5,12,2,5,3,7,2,2,3,5,1,15,23677919,22500000,"-5,23519934446507",https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-2024.png
+Armoni Brooks,Brooklyn Nets,BA,25,10,0,104,1,4,1,3,0,1,0,0,1,0,0,4,3732092,241285,"-1446,7567550030979",https://cdn.ssref.net/req/202312151/tlogo/bbr/BRK-2024.png
+Dillon Brooks,Houston Rockets,AL,28,54,54,1692,4,10,1,5,2,5,1,2,2,1,1,12,13620804,22627671,"39,8046571644634",https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-2024.png
+Bruce Brown,TOT,ES,27,52,38,1463,4,8,0,2,3,6,1,2,3,2,1,10,12518788,21951220,"42,96996654315854",
+Jaylen Brown,Boston Celtics,AL,27,58,58,1938,8,17,2,5,6,11,3,4,4,3,2,22,28825116,31830357,"9,4414298189506",https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-2024.png
+Kobe Brown,Los Angeles Clippers,AP,24,34,0,285,0,1,0,1,0,0,0,0,1,0,0,1,2557217,2413320,"-5,962624058317526",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAC-2024.png
+Moses Brown,Portland Trail Blazers,P,24,13,4,114,1,2,0,0,1,2,0,0,2,0,0,2,3291173,2165000,"-52,01725954562376",https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-2024.png
+Jalen Brunson,New York Knicks,BA,27,58,58,2048,9,20,2,6,7,13,5,6,3,6,2,27,30858541,26346666,"-17,12503368591813",https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-2024.png
+Thomas Bryant,Miami Heat,P,26,27,3,275,1,3,0,0,1,2,0,0,1,0,0,4,3565399,2528233,"-41,02338156065217",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIA-2024.png
+Kobe Bufkin,Atlanta Hawks,ES,20,9,0,89,1,4,0,1,0,2,0,0,1,1,0,3,3181314,4094280,"22,298550817953483",https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-2024.png
+Reggie Bullock,Houston Rockets,AL,32,26,0,226,0,2,0,1,0,0,0,0,1,0,0,2,4092030,3196448,"-28,01805363095048",https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-2024.png
+Alec Burks,TOT,ES,32,54,1,1072,3,9,2,5,1,3,2,2,1,1,0,11,12457366,10489600,"-18,759214118176008",
+Jimmy Butler,Miami Heat,AP,34,44,44,1501,6,13,1,2,5,11,6,8,3,4,1,21,38432993,45183960,"14,94106978779714",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIA-2024.png
+Toumani Camara,Portland Trail Blazers,AP,23,60,40,1448,2,6,0,2,1,3,1,1,3,1,1,7,3693862,1119563,"-229,93784860388647",https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-2024.png
+Clint Capela,Atlanta Hawks,P,29,55,55,1390,4,8,0,0,4,8,1,2,5,1,0,11,16997386,22116000,"23,14438924043988",https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-2024.png
+Jevon Carter,Chicago Bulls,BA,28,61,0,830,1,5,1,3,0,1,0,0,0,1,0,4,6329861,6190476,"-2,2516060698522136",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-2024.png
+Wendell Carter Jr.,Orlando Magic,P,24,37,31,968,4,7,1,2,2,4,1,2,4,1,1,11,10496085,13050000,"19,57022677736561",https://cdn.ssref.net/req/202312151/tlogo/bbr/ORL-2024.png
+Alex Caruso,Chicago Bulls,ES,29,55,42,1513,3,7,1,4,1,2,1,1,2,2,1,9,9926604,9460000,"-4,932399055736482",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-2024.png
+Malcolm Cazalon,Detroit Pistons,ES,22,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,2005411,389274,"-415,16705242132315",https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-2024.png
+Julian Champagnie,San Antonio Spurs,AL,22,56,41,954,1,4,1,3,0,1,0,1,2,1,0,5,3228005,3000000,"-7,600176031829959",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAS-2024.png
+Max Christie,Los Angeles Lakers,ES,20,51,7,815,1,3,0,1,0,1,0,0,2,1,0,4,3153343,1719864,"-83,34844443028405",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-2024.png
+Sidy Cissoko,San Antonio Spurs,AL,19,6,0,32,0,1,0,0,0,0,0,0,1,0,0,1,2301868,1119563,"-105,60417793989633",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAS-2024.png
+Jordan Clarkson,Utah Jazz,ES,31,53,19,1616,6,14,1,5,4,9,3,3,2,5,2,17,22709858,23487629,"3,311404214217421",https://cdn.ssref.net/req/202312151/tlogo/bbr/UTA-2024.png
+Noah Clowney,Brooklyn Nets,AP,19,8,0,78,1,2,0,0,1,1,0,0,1,1,0,3,3192716,3089520,"-3,3402197952894697",https://cdn.ssref.net/req/202312151/tlogo/bbr/BRK-2024.png
+Amir Coffey,Los Angeles Clippers,AL,26,50,9,936,2,4,0,1,1,2,0,1,1,0,0,5,4045480,3666667,"-10,331287482663107",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAC-2024.png
+John Collins,Utah Jazz,AP,26,60,58,1695,5,10,1,3,4,7,1,2,6,1,1,14,19880321,25340000,"21,545691209823755",https://cdn.ssref.net/req/202312151/tlogo/bbr/UTA-2024.png
+Zach Collins,San Antonio Spurs,P,26,52,26,1209,4,9,0,2,3,6,1,2,3,2,1,11,9936756,7700000,"-29,048791680773284",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAS-2024.png
+Mike Conley,Minnesota Timberwolves,BA,36,59,59,1706,3,8,2,5,1,2,1,1,2,6,1,10,21066928,24360000,"13,518355533402774",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIN-2024.png
+Pat Connaughton,Milwaukee Bucks,AL,31,58,2,1254,2,4,1,3,0,1,0,0,2,1,0,5,7648596,9423869,"18,83804024386222",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-2024.png
+Bilal Coulibaly,Washington Wizards,AL,19,59,11,1582,2,6,0,2,1,3,1,1,3,1,1,8,4151581,6614280,"37,23306225618493",https://cdn.ssref.net/req/202312151/tlogo/bbr/WAS-2024.png
+Robert Covington,TOT,5792936.669473495,33,29,6,488,1,3,0,1,0,1,0,0,2,0,0,4,5982044,11692308,"48,83778003104736",
+Torrey Craig,Chicago Bulls,AL,33,35,8,721,2,4,1,3,0,1,0,0,2,1,0,5,7161336,2528233,"-183,2545904999218",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-2024.png
+Jae Crowder,Milwaukee Bucks,AP,33,33,17,804,2,5,1,3,1,2,0,0,3,1,0,6,7712030,3196448,"-141,2687523192633",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-2024.png
+Jalen Crutcher,New Orleans Pelicans,BA,24,1,0,3,0,1,0,0,0,1,0,0,0,0,0,0,2378772,64343,"-3597,0184184625887",https://cdn.ssref.net/req/202312151/tlogo/bbr/NOP-2024.png
+Cade Cunningham,Detroit Pistons,BA,22,53,53,1793,8,18,1,5,6,13,3,4,3,7,3,22,11007881,11055240,"0,4283821375211233",https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-2024.png
+Seth Curry,TOT,ES,33,44,4,616,1,4,0,2,0,2,0,0,1,1,0,5,6184673,4000000,"-54,61684558917559",
+Stephen Curry,Golden State Warriors,BA,35,59,59,1936,8,19,4,12,3,7,4,4,3,4,2,26,40579072,51915615,"21,836478772101533",https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-2024.png
+Dyson Daniels,New Orleans Pelicans,BA,20,52,15,1139,2,4,0,2,1,2,0,0,2,2,1,5,3383367,5784120,"41,50592804091459",https://cdn.ssref.net/req/202312151/tlogo/bbr/NOP-2024.png
+Anthony Davis,Los Angeles Lakers,P,30,61,61,2183,9,17,0,1,9,15,5,6,9,3,1,24,33363021,40600080,"17,825232899696953",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-2024.png
+Johnny Davis,Washington Wizards,ES,21,32,0,316,0,2,0,0,0,2,0,0,0,0,0,2,2990162,5050800,"40,7982464836053",https://cdn.ssref.net/req/202312151/tlogo/bbr/WAS-2024.png
+Dexter Dennis,Dallas Mavericks,ES,24,3,0,30,2,4,0,2,2,2,0,0,2,1,0,5,3672298,212331,"-1629,516074639162",https://cdn.ssref.net/req/202312151/tlogo/bbr/DAL-2024.png
+DeMar DeRozan,Chicago Bulls,AL,34,62,62,2350,7,16,0,2,6,13,6,7,3,5,1,23,33103075,28600000,"-15,745020743767583",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-2024.png
+Mamadi Diakite,San Antonio Spurs,AP,27,3,0,16,1,1,0,0,1,1,1,2,0,0,0,4,3750547,199463,"-1780,32250941156",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAS-2024.png
+Hamidou Diallo,Washington Wizards,ES,25,2,0,5,0,1,0,0,0,1,0,0,0,0,0,1,2747810,134863,"-1937,4830183965323",https://cdn.ssref.net/req/202312151/tlogo/bbr/WAS-2024.png
+Gradey Dick,Toronto Raptors,ES,20,43,2,747,2,5,1,3,1,2,0,0,1,1,0,6,3033860,4536720,"33,126568292274726",https://cdn.ssref.net/req/202312151/tlogo/bbr/TOR-2024.png
+Ousmane Dieng,Oklahoma City Thunder,AP,20,29,0,326,1,3,0,2,0,1,0,0,1,1,0,4,2941915,4798440,"38,690171518853866",https://cdn.ssref.net/req/202312151/tlogo/bbr/OKC-2024.png
+Spencer Dinwiddie,TOT,BA,30,59,49,1747,3,9,1,5,1,4,2,2,2,5,1,11,14113010,1554664,"-807,7852600722",
+Donte DiVincenzo,New York Knicks,ES,27,62,44,1638,5,11,3,7,1,3,0,1,2,2,1,14,13000593,10900000,"-19,271499210536973",https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-2024.png
+Luka Dončić,Dallas Mavericks,BA,24,56,56,2104,11,23,3,10,7,13,7,9,8,9,3,34,30846528,40064220,"23,007289867830462",https://cdn.ssref.net/req/202312151/tlogo/bbr/DAL-2024.png
+Luguentz Dort,Oklahoma City Thunder,AL,24,61,61,1739,3,8,1,4,1,3,1,1,2,1,0,10,5699144,15277778,"62,69651230345554",https://cdn.ssref.net/req/202312151/tlogo/bbr/OKC-2024.png
+Ayo Dosunmu,Chicago Bulls,ES,24,62,23,1701,4,8,1,3,2,4,0,1,2,2,1,10,6548478,6481481,"-1,0336818885426802",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-2024.png
+Andre Drummond,Chicago Bulls,P,30,64,10,1097,3,6,0,0,3,6,1,2,5,0,1,8,9144287,3360000,"-172,15141661346763",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-2024.png
+Chris Duarte,Sacramento Kings,AL,26,43,11,569,1,3,0,2,0,1,0,0,1,0,0,4,3692670,4124280,"10,465085933221458",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAC-2024.png
+Kris Dunn,Utah Jazz,BA,29,56,28,1029,2,4,0,1,1,2,0,0,2,3,1,5,7053649,2586484,"-172,7119009091854",https://cdn.ssref.net/req/202312151/tlogo/bbr/UTA-2024.png
+Kevin Durant,Phoenix Suns,AP,35,57,57,2123,10,19,2,5,8,14,5,6,6,5,3,28,37827264,47649433,"20,613400871812075",https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-2024.png
+Jalen Duren,Detroit Pistons,P,20,48,47,1431,5,9,0,0,5,9,2,2,8,2,2,13,7844993,4330680,"-81,14922008793678",https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-2024.png
+Tari Eason,Houston Rockets,AP,22,22,0,480,4,8,0,2,3,6,0,1,4,1,0,9,5275147,3527160,"-49,557937472204536",https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-2024.png
+Anthony Edwards,Minnesota Timberwolves,ES,22,61,60,2138,9,19,2,6,6,13,5,6,4,5,3,26,14643357,13534817,"-8,190289699553585",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIN-2024.png
+Kessler Edwards,Sacramento Kings,AL,23,39,0,189,0,1,0,0,0,0,0,0,0,0,0,1,2202881,1927896,"-14,263479203801008",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAC-2024.png
+Keon Ellis,Sacramento Kings,ES,24,37,4,437,1,2,0,2,0,0,0,0,0,1,0,3,2753840,1450668,"-89,83255560233329",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAC-2024.png
+Joel Embiid,Philadelphia 76ers,P,29,34,34,1157,11,22,1,3,10,18,10,11,8,5,3,35,41745701,47607350,"12,312486156060627",https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-2024.png
+Drew Eubanks,Phoenix Suns,P,26,58,4,922,2,3,0,0,2,3,1,1,2,0,0,5,3645051,2346614,"-55,332386448443",https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-2024.png
+Tosan Evbuomwan,TOT,AL,22,6,0,90,1,3,0,1,0,1,0,0,1,1,0,2,2958363,64343,"-4497,801730299328",
+Dante Exum,Dallas Mavericks,BA,28,38,14,722,3,5,0,1,2,3,1,1,2,2,0,8,7379763,3000000,"-145,9921011511114",https://cdn.ssref.net/req/202312151/tlogo/bbr/DAL-2024.png
+Bruno Fernando,Atlanta Hawks,P,25,26,1,315,1,3,0,0,1,3,1,1,2,0,0,4,3482195,2581522,"-34,88923212799994",https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-2024.png
+Dorian Finney-Smith,Brooklyn Nets,AP,30,55,44,1560,3,7,1,5,1,2,0,0,3,1,0,8,9031918,13394160,"32,56823175687998",https://cdn.ssref.net/req/202312151/tlogo/bbr/BRK-2024.png
+Malachi Flynn,TOT,BA,25,54,0,607,1,3,0,1,0,1,0,0,1,1,0,4,3244671,3873025,"16,223845297008673",
+Simone Fontecchio,TOT,AL,28,62,39,1500,3,8,1,4,1,3,0,0,2,1,0,10,8502374,3044872,"-179,2358466660053",
+Trent Forrest,Atlanta Hawks,ES,25,25,0,250,0,2,0,0,0,1,0,0,1,1,0,2,3022597,968162,"-212,19955620121874",https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-2024.png
+Evan Fournier,TOT,ES,31,14,0,230,2,6,1,4,1,2,0,1,1,1,0,6,9132564,18857143,"51,569736725540416",
+De'Aaron Fox,Sacramento Kings,BA,26,54,54,1931,9,21,2,7,7,13,4,6,3,5,2,27,29572512,32600060,"9,286938606394195",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAC-2024.png
+Alex Fudge,Los Angeles Lakers,AL,20,3,0,14,0,1,0,0,0,1,0,0,0,0,0,1,2473925,241285,"-925,3124834928526",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-2024.png
+Markelle Fultz,Orlando Magic,BA,25,27,15,603,3,7,0,0,3,7,0,0,2,3,1,8,8711345,17000000,"48,756789819720815",https://cdn.ssref.net/req/202312151/tlogo/bbr/ORL-2024.png
+Daniel Gafford,TOT,AP,25,57,49,1410,4,6,0,0,4,6,1,2,5,1,0,10,15108724,12402000,"-21,824900357105008",
+Danilo Gallinari,TOT,AP,35,40,0,551,1,4,0,2,1,2,1,2,2,1,0,6,7570889,1047112,"-623,0257644741756",
+Darius Garland,Cleveland Cavaliers,BA,24,39,39,1295,6,14,2,5,4,8,3,3,1,6,3,18,22033789,34005250,"35,20474169795278",https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-2024.png
+Usman Garuba,Golden State Warriors,AP,21,3,0,8,0,0,0,0,0,0,0,0,0,0,0,0,2048264,2588400,"20,8675512684851",https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-2024.png
+Kaiser Gates,New Orleans Pelicans,AL,27,1,0,7,0,3,0,2,0,2,0,0,1,0,0,0,5925474,35389,"-16643,830563723728",https://cdn.ssref.net/req/202312151/tlogo/bbr/NOP-2024.png
+Keyonte George,Utah Jazz,BA,20,57,26,1459,4,10,2,5,2,4,2,2,2,4,2,12,5885227,3889800,"-51,29896296004367",https://cdn.ssref.net/req/202312151/tlogo/bbr/UTA-2024.png
+Paul George,Los Angeles Clippers,AP,33,57,57,1938,7,16,3,8,4,8,3,3,4,3,2,22,37596037,45640165,"17,62510510407903",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAC-2024.png
+Josh Giddey,Oklahoma City Thunder,ES,21,62,62,1531,4,10,0,2,3,7,1,1,4,4,2,11,6048079,6587160,"8,18381198188982",https://cdn.ssref.net/req/202312151/tlogo/bbr/OKC-2024.png
+Harry Giles,TOT,P,25,18,0,85,1,2,0,0,1,1,0,0,0,0,0,3,2972572,2092354,"-42,06832872522669",
+Anthony Gill,Washington Wizards,AP,31,33,0,174,0,1,0,0,0,1,0,0,0,0,0,2,3265691,1997238,"-63,51038488959816",https://cdn.ssref.net/req/202312151/tlogo/bbr/WAS-2024.png
+Jacob Gilyard,Memphis Grizzlies,BA,25,37,14,654,1,3,1,3,0,0,0,0,0,3,0,4,4488499,398925,"-1025,1488096092319",https://cdn.ssref.net/req/202312151/tlogo/bbr/MEM-2024.png
+Rudy Gobert,Minnesota Timberwolves,P,31,62,62,2104,5,8,0,0,5,8,3,5,9,1,1,13,24806936,41000000,"39,495275825580045",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIN-2024.png
+Jordan Goodwin,TOT,BA,25,46,5,730,2,5,0,2,1,3,0,0,2,2,0,5,3824133,1927986,"-98,34863110619617",
+Aaron Gordon,Denver Nuggets,AP,28,58,58,1822,5,9,0,1,4,8,2,3,4,3,1,13,20193105,21266182,"5,045927561065145",https://cdn.ssref.net/req/202312151/tlogo/bbr/DEN-2024.png
+Eric Gordon,Phoenix Suns,ES,35,53,24,1564,4,9,2,6,2,3,0,1,1,2,1,11,11756787,3196448,"-267,8078704792903",https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-2024.png
+Devonte' Graham,San Antonio Spurs,BA,28,13,0,110,1,2,0,1,0,0,0,0,1,1,0,3,5611382,12100000,"53,62494207601167",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAS-2024.png
+Jerami Grant,Portland Trail Blazers,AP,29,53,53,1795,7,15,2,5,5,10,4,5,2,2,2,21,24769047,27586207,"10,21220321814178",https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-2024.png
+A.J. Green,Milwaukee Bucks,ES,24,42,0,401,1,3,1,2,0,0,0,0,0,0,0,4,2790276,1801769,"-54,86315764993751",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-2024.png
+Danny Green,Philadelphia 76ers,ES,36,2,0,18,0,1,0,0,0,0,0,0,1,0,0,0,4189590,500000,"-737,9181538523014",https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-2024.png
+Draymond Green,Golden State Warriors,AP,33,39,36,1033,3,6,1,2,2,4,1,1,5,5,2,9,21333104,22321429,"4,427694103431924",https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-2024.png
+Jalen Green,Houston Rockets,ES,21,63,63,1939,6,15,2,6,4,8,3,4,4,3,2,18,8315299,9891600,"15,935749733963068",https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-2024.png
+Jeff Green,Houston Rockets,AP,37,59,5,966,1,4,0,1,1,2,1,2,1,0,0,5,6391512,9600000,"33,42174678401887",https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-2024.png
+Josh Green,Dallas Mavericks,ES,23,51,32,1385,3,6,1,3,1,3,0,1,2,2,1,8,4452348,4765339,"6,568070843121212",https://cdn.ssref.net/req/202312151/tlogo/bbr/DAL-2024.png
+Quentin Grimes,TOT,ES,23,49,18,989,2,6,1,4,0,1,0,0,1,1,0,7,3149819,2385720,"-32,028051300764545",
+Mouhamadou Gueye,Toronto Raptors,AP,25,2,0,10,0,2,0,0,0,2,0,0,1,0,0,1,3311454,64343,"-5046,565895871368",https://cdn.ssref.net/req/202312151/tlogo/bbr/TOR-2024.png
+Mouhamed Gueye,Atlanta Hawks,AP,21,2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,2127113,1119563,"-89,99498457524793",https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-2024.png
+Rui Hachimura,Los Angeles Lakers,AP,25,51,22,1302,4,9,1,3,3,6,1,1,2,1,0,12,10171864,15740741,"35,37874552387827",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-2024.png
+Tyrese Haliburton,Indiana Pacers,BA,23,51,50,1635,7,15,2,7,4,7,2,3,3,11,2,20,13079737,5808435,"-125,18522948568776",https://cdn.ssref.net/req/202312151/tlogo/bbr/IND-2024.png
+R.J. Hampton,Miami Heat,BA,22,8,2,76,0,1,0,1,0,0,0,0,0,1,0,1,2494199,120250,"-1974,178194042122",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIA-2024.png
+Tim Hardaway Jr.,Dallas Mavericks,AL,31,61,10,1737,5,13,2,8,2,5,2,2,3,1,0,16,20403283,17897728,"-13,999294613963635",https://cdn.ssref.net/req/202312151/tlogo/bbr/DAL-2024.png
+James Harden,Los Angeles Clippers,BA,34,57,57,1974,5,11,2,6,2,4,4,5,4,8,2,17,33533083,35640000,"5,911662556613962",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAC-2024.png
+Jaden Hardy,Dallas Mavericks,ES,21,56,6,807,2,7,1,3,1,3,0,1,1,1,0,7,3476887,1719864,"-102,16060641565876",https://cdn.ssref.net/req/202312151/tlogo/bbr/DAL-2024.png
+Ron Harper Jr.,Toronto Raptors,AP,23,1,0,4,0,0,0,0,0,0,0,0,0,1,0,0,2056918,147988,"-1289,9221790564009",https://cdn.ssref.net/req/202312151/tlogo/bbr/TOR-2024.png
+Gary Harris,Orlando Magic,ES,29,40,13,918,2,5,1,3,1,1,0,0,1,1,0,7,7956447,13000000,"38,79656071395124",https://cdn.ssref.net/req/202312151/tlogo/bbr/ORL-2024.png
+Joe Harris,Detroit Pistons,ES,32,15,0,170,0,2,0,1,0,0,0,0,0,0,0,2,5008805,19928571,"74,86620813493353",https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-2024.png
+Tobias Harris,Philadelphia 76ers,AP,31,57,57,1937,6,13,1,3,5,10,2,3,5,3,1,17,29606417,39270150,"24,608340974942315",https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-2024.png
+Shaquille Harrison,Memphis Grizzlies,ES,30,3,0,6,0,0,0,0,0,0,0,0,0,0,0,0,4158843,145301,"-2762,2265756977745",https://cdn.ssref.net/req/202312151/tlogo/bbr/MEM-2024.png
+Josh Hart,New York Knicks,AL,28,62,23,1959,3,7,1,3,2,4,0,1,6,3,1,8,11521692,12960000,"11,098051938429794",https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-2024.png
+Isaiah Hartenstein,New York Knicks,P,25,57,31,1425,2,4,0,0,2,4,1,1,5,2,1,6,7010882,8195121,"14,450535632722946",https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-2024.png
+Sam Hauser,Boston Celtics,AL,26,62,6,1286,2,6,2,5,0,0,0,0,2,0,0,7,4305172,1927896,"-123,30937287900102",https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-2024.png
+Jordan Hawkins,New Orleans Pelicans,ES,21,55,10,1075,3,7,1,5,1,2,1,1,2,1,0,9,3750240,4310160,"12,99068165414915",https://cdn.ssref.net/req/202312151/tlogo/bbr/NOP-2024.png
+Jaxson Hayes,Los Angeles Lakers,P,23,54,3,617,1,2,0,0,1,2,0,1,1,0,0,3,2951746,2165000,"-36,33931702166669",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-2024.png
+Killian Hayes,Detroit Pistons,BA,22,42,31,1008,2,6,0,1,2,4,0,1,2,4,1,6,6335413,7413955,"14,547447825066351",https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-2024.png
+Gordon Hayward,TOT,AL,33,34,25,936,4,9,0,1,3,7,2,2,3,3,1,11,21196515,31500000,"32,70947466706294",
+Scoot Henderson,Portland Trail Blazers,BA,19,44,16,1186,4,11,1,3,3,7,2,3,2,4,2,12,7788046,9770880,"20,29329114202879",https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-2024.png
+Taylor Hendricks,Utah Jazz,AP,20,23,6,401,2,5,1,2,1,2,0,0,2,0,0,5,3158367,5569920,"43,29600623840718",https://cdn.ssref.net/req/202312151/tlogo/bbr/UTA-2024.png
+Tyler Herro,Miami Heat,ES,24,36,36,1209,7,18,3,8,4,9,1,2,4,4,2,20,20481832,27000000,"24,141359605204066",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIA-2024.png
+Buddy Hield,TOT,ES,31,65,41,1757,4,10,2,7,1,3,0,0,2,3,1,12,15051662,19279841,"21,930568675069736",
+Haywood Highsmith,Miami Heat,AP,27,47,24,945,2,4,1,2,1,1,0,0,1,0,0,5,5599702,1902137,"-194,3900837077527",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIA-2024.png
+D'Moi Hodge,Los Angeles Lakers,ES,25,7,0,41,0,2,0,1,0,0,0,0,0,0,0,2,2856898,241285,"-1084,0348075646348",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-2024.png
+Aaron Holiday,Houston Rockets,BA,27,60,1,1001,2,5,1,2,1,2,0,0,1,1,0,6,5795194,2346614,"-146,95984109182058",https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-2024.png
+Jrue Holiday,Boston Celtics,BA,33,58,58,1924,4,10,2,4,2,5,1,1,4,4,1,12,19508210,36158747,"46,04843291683539",https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-2024.png
+Justin Holiday,Denver Nuggets,ES,34,40,9,587,1,3,0,2,0,0,0,0,1,1,0,3,5792936,3196448,"-81,23043670579015",https://cdn.ssref.net/req/202312151/tlogo/bbr/DEN-2024.png
+Richaun Holmes,TOT,AP,30,33,3,383,1,3,0,0,1,2,0,0,2,0,0,4,5091346,12046020,"57,73420406428327",
+Chet Holmgren,Oklahoma City Thunder,P,21,63,63,1902,6,11,1,4,4,7,2,3,6,2,1,17,6281376,10386000,"39,520739393624424",https://cdn.ssref.net/req/202312151/tlogo/bbr/OKC-2024.png
+Jalen Hood-Schifino,Los Angeles Lakers,ES,20,21,0,109,0,2,0,0,0,1,0,0,0,0,0,1,2651593,3695040,"28,239122555521966",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-2024.png
+Al Horford,Boston Celtics,P,37,53,24,1413,2,6,1,3,1,2,0,0,5,2,0,7,12488453,10000000,"-24,884537702715175",https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-2024.png
+Talen Horton-Tucker,Utah Jazz,BA,23,41,11,805,3,8,1,3,2,5,1,2,2,3,1,10,5803531,11020000,"47,336371130910656",https://cdn.ssref.net/req/202312151/tlogo/bbr/UTA-2024.png
+Caleb Houstan,Orlando Magic,AL,21,47,9,674,1,3,1,3,0,0,0,0,1,0,0,4,2582735,2000000,"-29,136780401272393",https://cdn.ssref.net/req/202312151/tlogo/bbr/ORL-2024.png
+Jett Howard,Orlando Magic,AL,20,13,0,49,0,1,0,1,0,0,0,0,0,0,0,1,2212011,5026800,"55,99562664245713",https://cdn.ssref.net/req/202312151/tlogo/bbr/ORL-2024.png
+Kevin Huerter,Sacramento Kings,ES,25,60,55,1494,4,9,2,5,2,3,0,0,2,2,0,10,8046112,15669643,"48,65159149395874",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAC-2024.png
+De'Andre Hunter,Atlanta Hawks,AL,26,39,24,1097,5,10,2,4,3,6,3,3,3,1,1,15,12770774,20089286,"36,42992417951421",https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-2024.png
+Bones Hyland,Los Angeles Clippers,BA,23,24,2,316,2,5,1,3,1,2,0,0,0,1,1,5,3213889,2306400,"-39,34657245972258",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAC-2024.png
+Joe Ingles,Orlando Magic,AL,36,50,0,862,1,3,1,2,0,1,0,0,1,2,0,4,7054536,11000000,"35,86785382489772",https://cdn.ssref.net/req/202312151/tlogo/bbr/ORL-2024.png
+Brandon Ingram,New Orleans Pelicans,AL,26,57,57,1892,8,16,1,3,6,12,4,5,4,5,2,21,26459923,33833400,"21,793483336787062",https://cdn.ssref.net/req/202312151/tlogo/bbr/NOP-2024.png
+Kyrie Irving,Dallas Mavericks,ES,31,42,42,1439,9,19,3,7,6,12,3,3,4,5,1,25,38244067,37037037,"-3,2589813063897854",https://cdn.ssref.net/req/202312151/tlogo/bbr/DAL-2024.png
+Jonathan Isaac,Orlando Magic,AP,26,43,1,636,2,4,0,1,1,3,1,1,3,0,0,6,4237717,17400000,"75,64530041843426",https://cdn.ssref.net/req/202312151/tlogo/bbr/ORL-2024.png
+Jaden Ivey,Detroit Pistons,ES,21,59,43,1668,5,12,1,4,3,7,3,4,2,3,2,15,7100407,7614480,"6,751244917268341",https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-2024.png
+Andre Jackson Jr.,Milwaukee Bucks,ES,22,48,8,504,0,1,0,0,0,1,0,0,1,0,0,2,2770892,1119563,"-147,49765859491944",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-2024.png
+Isaiah Jackson,Indiana Pacers,P,22,47,3,637,2,4,0,0,2,4,1,1,2,0,0,6,3242372,2696280,"-20,253549288062548",https://cdn.ssref.net/req/202312151/tlogo/bbr/IND-2024.png
+Jaren Jackson Jr.,Memphis Grizzlies,P,24,56,56,1795,7,17,1,5,5,11,5,6,4,2,2,22,23764610,27102202,"12,314834680002255",https://cdn.ssref.net/req/202312151/tlogo/bbr/MEM-2024.png
+Justin Jackson,Minnesota Timberwolves,AL,28,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4391526,145301,"-2922,36502295405",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIN-2024.png
+Reggie Jackson,Denver Nuggets,BA,33,64,16,1427,4,9,1,3,2,5,0,1,1,3,1,10,12874217,5000000,"-157,48434706058805",https://cdn.ssref.net/req/202312151/tlogo/bbr/DEN-2024.png
+Trayce Jackson-Davis,Golden State Warriors,AP,23,50,4,674,2,4,0,0,2,4,1,1,2,0,0,6,3222628,1119563,"-187,84703576517123",https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-2024.png
+LeBron James,Los Angeles Lakers,AP,39,56,56,1962,9,18,2,5,7,12,3,5,6,8,3,25,39719245,47607350,"16,569089113927195",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-2024.png
+Jaime Jaquez Jr.,Miami Heat,AL,22,57,17,1679,4,9,0,2,4,7,2,2,2,2,1,12,6199101,3510600,"-76,58238496710307",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIA-2024.png
+DaQuan Jeffries,New York Knicks,ES,26,13,0,34,0,1,0,0,0,0,0,0,0,0,0,0,2947912,951635,"-209,77339282639383",https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-2024.png
+Trey Jemison,TOT,P,24,12,5,206,2,3,0,0,2,4,0,0,2,0,1,5,3434391,64343,"-5237,630817453128",
+Ty Jerome,Cleveland Cavaliers,ES,26,2,0,14,1,2,0,0,1,1,0,0,0,1,0,2,3712783,2439025,"-52,22408706164497",https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-2024.png
+Isaiah Joe,Oklahoma City Thunder,ES,24,59,0,1087,2,6,1,4,0,1,0,0,1,1,0,8,3546597,1997238,"-77,5750924941248",https://cdn.ssref.net/req/202312151/tlogo/bbr/OKC-2024.png
+Cameron Johnson,Brooklyn Nets,AP,27,49,45,1359,4,10,2,6,2,4,1,1,3,2,0,13,14640976,25700000,"43,03121844325005",https://cdn.ssref.net/req/202312151/tlogo/bbr/BRK-2024.png
+Jalen Johnson,Atlanta Hawks,AL,22,48,45,1630,6,12,1,3,5,8,1,2,7,3,1,15,6821435,2925480,"-133,17319911846226",https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-2024.png
+James Johnson,Indiana Pacers,AP,36,6,0,32,0,1,0,0,0,0,0,0,0,1,0,1,3699410,2608596,"-41,81615108343983",https://cdn.ssref.net/req/202312151/tlogo/bbr/IND-2024.png
+Keldon Johnson,San Antonio Spurs,AL,24,60,26,1777,5,12,1,5,4,7,2,3,4,2,1,16,16501224,20000000,"17,49387611474297",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAS-2024.png
+Keon Johnson,Brooklyn Nets,ES,21,3,0,51,1,4,1,2,0,2,2,2,0,0,1,7,3108258,2808720,"-10,664603787217702",https://cdn.ssref.net/req/202312151/tlogo/bbr/BRK-2024.png
+Nikola Jokić,Denver Nuggets,P,28,62,62,2120,10,17,1,2,9,14,4,5,9,9,2,26,33373238,47607350,"29,898978304989633",https://cdn.ssref.net/req/202312151/tlogo/bbr/DEN-2024.png
+Colby Jones,Sacramento Kings,ES,21,17,0,121,1,2,0,0,0,1,0,0,0,0,0,2,2953349,2019706,"-46,22671335320882",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAC-2024.png
+Damian Jones,Cleveland Cavaliers,P,28,27,0,166,0,1,0,0,0,1,0,0,1,0,0,1,3519306,2586665,"-36,05576552091657",https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-2024.png
+Derrick Jones Jr.,Dallas Mavericks,AL,26,59,49,1397,3,6,1,3,2,3,1,1,2,0,0,8,7023789,2709849,"-159,1948730591652",https://cdn.ssref.net/req/202312151/tlogo/bbr/DAL-2024.png
+Herbert Jones,New Orleans Pelicans,AL,25,58,58,1702,4,7,1,3,2,4,1,2,2,2,1,11,8561881,12015150,"28,740955298272823",https://cdn.ssref.net/req/202312151/tlogo/bbr/NOP-2024.png
+Tre Jones,San Antonio Spurs,BA,24,59,30,1555,3,7,0,2,2,5,1,1,2,6,1,9,7512492,9895833,"24,084283093763602",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAS-2024.png
+Tyus Jones,Washington Wizards,BA,27,63,63,1829,5,10,1,3,3,6,0,0,2,7,0,12,14145903,14000000,"-1,0421704802132212",https://cdn.ssref.net/req/202312151/tlogo/bbr/WAS-2024.png
+DeAndre Jordan,Denver Nuggets,P,35,29,1,327,1,2,0,0,1,2,0,1,2,0,0,4,4592497,3196448,"-43,67502063905448",https://cdn.ssref.net/req/202312151/tlogo/bbr/DEN-2024.png
+Cory Joseph,Golden State Warriors,BA,32,26,0,296,0,2,0,1,0,0,0,0,0,1,0,2,5580822,3196448,"-74,59451408365263",https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-2024.png
+Luke Kennard,Memphis Grizzlies,ES,27,32,15,799,3,7,2,5,0,1,1,1,2,3,1,11,10965829,15418363,"28,878119187756024",https://cdn.ssref.net/req/202312151/tlogo/bbr/MEM-2024.png
+Walker Kessler,Utah Jazz,P,22,52,18,1213,3,5,0,0,3,5,0,1,4,0,1,8,4717328,2831160,"-66,62174884559462",https://cdn.ssref.net/req/202312151/tlogo/bbr/UTA-2024.png
+Corey Kispert,Washington Wizards,AL,24,61,3,1390,4,9,2,5,2,3,1,1,2,1,1,12,7013917,3722040,"-88,44283814556898",https://cdn.ssref.net/req/202312151/tlogo/bbr/WAS-2024.png
+Maxi Kleber,Dallas Mavericks,P,32,27,7,589,1,3,0,2,0,1,0,1,2,1,0,4,7750385,11000000,"29,54194554738365",https://cdn.ssref.net/req/202312151/tlogo/bbr/DAL-2024.png
+Kevin Knox,Detroit Pistons,AL,24,31,11,560,2,6,1,3,1,2,0,0,1,0,0,7,3494238,2144320,"-62,95321773560414",https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-2024.png
+John Konchar,Memphis Grizzlies,AL,27,49,18,981,1,3,0,2,0,1,0,0,3,1,0,4,5685657,2400000,"-136,9024001851056",https://cdn.ssref.net/req/202312151/tlogo/bbr/MEM-2024.png
+Furkan Korkmaz,Philadelphia 76ers,ES,26,35,0,300,0,2,0,1,0,1,0,0,0,0,0,2,2996065,5370370,"44,21119510382727",https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-2024.png
+Luke Kornet,Boston Celtics,P,28,45,2,662,2,3,0,0,2,3,0,0,2,0,0,5,4764770,2413304,"-97,4376213633373",https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-2024.png
+Jonathan Kuminga,Golden State Warriors,AP,21,62,36,1601,6,11,0,2,5,9,3,4,3,2,1,15,6302428,6012720,"-4,8182587209266226",https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-2024.png
+Kyle Kuzma,Washington Wizards,AP,28,61,61,1957,8,18,2,6,6,12,2,3,5,4,2,22,28182066,25568182,"-10,22319343450592",https://cdn.ssref.net/req/202312151/tlogo/bbr/WAS-2024.png
+Jock Landale,Houston Rockets,P,28,37,0,335,0,2,0,0,0,1,0,0,1,0,0,2,3539413,8000000,"55,75733257028885",https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-2024.png
+Jake LaRavia,Memphis Grizzlies,AP,22,19,0,312,2,6,0,3,1,3,1,2,1,1,0,6,3147129,3199920,"1,6497445131869368",https://cdn.ssref.net/req/202312151/tlogo/bbr/MEM-2024.png
+Zach LaVine,Chicago Bulls,ES,28,25,23,872,6,15,2,6,4,8,3,4,4,3,2,19,30310473,40064220,"24,345278735992913",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-2024.png
+Alex Len,Sacramento Kings,P,30,28,0,246,1,1,0,0,1,1,0,0,1,0,0,2,4503728,3196448,"-40,89790149285592",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAC-2024.png
+Kawhi Leonard,Los Angeles Clippers,AL,32,57,57,1972,9,17,2,5,6,12,3,4,5,3,1,24,38022094,45640084,"16,69144446111554",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAC-2024.png
+Caris LeVert,Cleveland Cavaliers,ES,29,51,1,1429,5,12,1,5,3,7,2,2,3,4,1,13,19033815,15384616,"-23,71979658376804",https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-2024.png
+Kira Lewis Jr.,TOT,BA,22,19,0,153,0,2,0,1,0,1,0,0,0,1,0,2,2905806,5722116,"49,217969492483604",
+Maxwell Lewis,Los Angeles Lakers,AL,21,22,0,74,0,0,0,0,0,0,0,0,0,0,0,0,2042763,1119563,"-82,46075034516689",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-2024.png
+E.J. Liddell,New Orleans Pelicans,AP,23,8,0,22,0,0,0,0,0,0,0,0,0,0,0,0,2072662,1801769,"-15,034848708950967",https://cdn.ssref.net/req/202312151/tlogo/bbr/NOP-2024.png
+Damian Lillard,Milwaukee Bucks,BA,33,59,59,2062,7,17,3,8,4,8,6,7,3,6,2,24,36105857,45640084,"20,89002844820489",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-2024.png
+Nassir Little,Phoenix Suns,AL,23,34,2,426,1,3,0,1,0,1,0,0,1,0,0,3,2923198,6250000,"53,22881711826795",https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-2024.png
+Dereck Lively II,Dallas Mavericks,P,19,45,42,1108,3,5,0,0,3,5,0,1,4,1,0,8,4667189,4775640,"2,2709123908013744",https://cdn.ssref.net/req/202312151/tlogo/bbr/DAL-2024.png
+Isaiah Livers,Detroit Pistons,AP,25,23,6,468,1,5,0,3,0,1,0,0,1,1,0,4,3834942,1836096,"-108,86396674841272",https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-2024.png
+Chris Livingston,Milwaukee Bucks,AL,20,15,0,69,0,1,0,0,0,0,0,0,0,0,0,1,2284007,1119563,"-104,00883938020287",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-2024.png
+Kevon Looney,Golden State Warriors,P,27,61,36,1033,1,3,0,0,1,3,0,1,3,2,0,4,5511335,7500000,"26,515525436573835",https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-2024.png
+Brook Lopez,Milwaukee Bucks,P,35,61,61,1900,4,9,1,5,2,4,1,1,3,1,0,12,17463704,25000000,"30,145180816989036",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-2024.png
+Robin Lopez,Milwaukee Bucks,P,35,15,2,65,0,1,0,0,0,0,0,0,0,0,0,1,3668958,3196448,"-14,782366244968745",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-2024.png
+Kevin Love,Miami Heat,AP,35,47,5,822,2,6,1,4,1,1,1,2,5,2,0,9,11063265,3835738,"-188,4259906771999",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIA-2024.png
+Kyle Lowry,TOT,BA,37,44,39,1243,2,6,1,4,1,2,1,1,2,4,1,8,13097623,1138964,"-1049,9593597371966",
+Trey Lyles,Sacramento Kings,AP,28,47,0,940,2,5,1,3,1,1,0,1,3,1,0,7,7159287,8000000,"10,50890897648083",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAC-2024.png
+Théo Maledon,TOT,BA,22,17,1,213,1,4,0,1,0,2,0,0,1,1,1,3,3098363,167291,"-1752,0802834071912",
+Terance Mann,Los Angeles Clippers,ES,27,56,52,1413,3,6,0,2,2,3,0,1,2,1,0,8,7204092,10576923,"31,888581320198995",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAC-2024.png
+Tre Mann,TOT,BA,22,24,11,454,2,6,1,2,1,3,0,0,3,3,1,7,3632625,3191280,"-13,829726166608472",
+Lauri Markkanen,Utah Jazz,AP,26,51,51,1677,7,16,3,8,4,8,4,4,6,2,1,23,21819148,17259999,"-26,4145418061213",https://cdn.ssref.net/req/202312151/tlogo/bbr/UTA-2024.png
+Naji Marshall,New Orleans Pelicans,AL,26,51,1,964,2,5,0,2,1,3,1,1,2,2,1,7,5085212,1930681,"-163,389583900675",https://cdn.ssref.net/req/202312151/tlogo/bbr/NOP-2024.png
+Caleb Martin,Miami Heat,AL,28,46,19,1250,3,8,1,3,2,5,1,1,3,2,1,10,11201082,6802950,"-64,65037721884893",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIA-2024.png
+Cody Martin,Charlotte Hornets,AL,28,28,22,753,2,7,0,3,1,4,0,1,3,3,1,7,8580972,7560000,"-13,504929391855459",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHO-2024.png
+Garrison Mathews,Atlanta Hawks,ES,27,47,4,609,1,2,1,2,0,0,0,0,1,0,0,3,3602274,2000000,"-80,11373915283157",https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-2024.png
+Bennedict Mathurin,Indiana Pacers,AL,21,59,19,1538,5,11,1,3,3,7,3,3,2,2,1,14,6886586,6916080,"0,42644818865885936",https://cdn.ssref.net/req/202312151/tlogo/bbr/IND-2024.png
+Wesley Matthews,Atlanta Hawks,ES,37,23,1,250,0,2,0,1,0,0,0,0,1,0,0,2,4215225,3196448,"-31,872185448083645",https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-2024.png
+Tyrese Maxey,Philadelphia 76ers,BA,23,55,55,2056,9,20,3,8,5,12,4,5,3,6,1,26,17039468,4343920,"-292,2601898941893",https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-2024.png
+Skylar Mays,TOT,BA,26,31,5,419,2,5,0,1,1,3,0,0,1,2,0,4,4684320,914343,"-412,31547743820107",
+Miles McBride,New York Knicks,BA,23,50,5,741,2,5,1,3,1,2,0,0,0,1,0,6,3169175,1836096,"-72,60401240091684",https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-2024.png
+T.J. McConnell,Indiana Pacers,BA,31,53,4,929,4,7,0,0,3,6,0,0,2,5,1,8,11379643,8700000,"-30,800503790727678",https://cdn.ssref.net/req/202312151/tlogo/bbr/IND-2024.png
+Jaden McDaniels,Minnesota Timberwolves,AL,23,54,53,1577,4,8,1,3,3,5,0,1,2,1,1,10,5422197,3901399,"-38,980845382452365",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIN-2024.png
+Jalen McDaniels,Toronto Raptors,AL,26,36,0,325,1,3,0,1,0,1,0,0,1,0,0,2,3327555,4516000,"26,316305392703583",https://cdn.ssref.net/req/202312151/tlogo/bbr/TOR-2024.png
+Doug McDermott,TOT,AL,32,52,0,766,1,4,1,3,0,0,0,0,0,1,0,5,7045197,13750000,"48,76219691159954",
+JaVale McGee,Sacramento Kings,P,36,39,0,310,1,2,0,0,1,2,0,1,1,0,0,4,4596767,3196448,"-43,80860383377718",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAC-2024.png
+Bryce McGowens,Charlotte Hornets,ES,21,50,13,789,1,3,0,1,1,2,1,1,1,0,0,5,2972812,1719864,"-72,85160058800273",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHO-2024.png
+Jordan McLaughlin,Minnesota Timberwolves,BA,27,38,0,339,0,2,0,1,0,0,0,0,0,1,0,2,4086954,2320000,"-76,16183010107372",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIN-2024.png
+De'Anthony Melton,Philadelphia 76ers,ES,25,36,33,1002,3,9,2,5,1,3,1,2,3,3,1,11,9139925,8000000,"-14,249068338706206",https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-2024.png
+Nathan Mensah,Charlotte Hornets,P,25,25,0,307,0,1,0,0,0,1,0,0,1,0,0,1,2838183,257371,"-1002,7596456063477",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHO-2024.png
+Sam Merrill,Cleveland Cavaliers,ES,27,45,1,729,2,6,2,5,0,0,0,0,1,1,0,7,6003091,1997238,"-200,5696605456809",https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-2024.png
+Chimezie Metu,Phoenix Suns,P,26,37,5,447,1,3,0,1,1,2,1,1,2,0,0,5,3948927,2346614,"-68,28194317999939",https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-2024.png
+Khris Middleton,Milwaukee Bucks,AL,32,43,43,1129,5,11,1,4,3,7,1,2,3,5,2,14,24561119,29320988,"16,23365575002551",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-2024.png
+Brandon Miller,Charlotte Hornets,AL,21,57,51,1828,6,14,2,6,4,8,1,2,3,2,1,16,6005009,10880400,"44,808925301328074",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHO-2024.png
+Leonard Miller,Minnesota Timberwolves,AL,20,7,0,26,1,1,0,0,0,1,0,0,1,0,0,2,2620868,1800000,"-45,60378271941939",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIN-2024.png
+Dariq Whitehead,Brooklyn Nets,AL,19,2,0,24,0,2,0,1,0,1,0,1,2,1,0,1,2646863,2966040,"10,76102313859223",https://cdn.ssref.net/req/202312151/tlogo/bbr/BRK-2024.png
+Patty Mills,TOT,BA,35,20,0,218,1,2,0,1,0,1,0,0,0,0,0,3,5593212,6802950,"17,782538022808776",
+Shake Milton,TOT,ES,27,43,0,555,1,4,0,1,1,2,0,1,1,1,0,4,5200152,5000000,"-4,003043803748004",
+Josh Minott,Minnesota Timberwolves,AL,21,21,0,62,0,1,0,0,0,0,0,0,0,0,0,1,2325867,1719864,"-35,23552751395484",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIN-2024.png
+Davion Mitchell,Sacramento Kings,BA,25,52,4,700,1,3,0,1,1,1,0,0,0,1,0,4,3316198,5063760,"34,511134797200114",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAC-2024.png
+Donovan Mitchell,Cleveland Cavaliers,ES,27,47,47,1679,9,20,3,9,6,11,5,6,4,6,2,27,29972403,32600060,"8,060281847035503",https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-2024.png
+Evan Mobley,Cleveland Cavaliers,AP,22,38,38,1183,6,11,0,0,6,10,2,3,7,3,1,15,8546853,8882760,"3,7815556633101877",https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-2024.png
+Malik Monk,Sacramento Kings,ES,25,61,0,1596,5,12,2,5,3,6,2,2,2,5,2,15,13716306,9945830,"-37,910124940036596",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAC-2024.png
+Moses Moody,Golden State Warriors,ES,21,49,8,875,3,6,1,3,2,3,1,1,2,0,0,8,3641646,3918480,"7,064814971380249",https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-2024.png
+Taze Moore,Portland Trail Blazers,ES,25,3,0,10,1,1,0,0,1,1,0,0,0,0,0,2,3058137,64343,"-4652,867374074021",https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-2024.png
+Ja Morant,Memphis Grizzlies,BA,24,9,9,318,8,18,1,5,7,13,5,7,4,8,3,25,29731719,34005250,"12,567266702199657",https://cdn.ssref.net/req/202312151/tlogo/bbr/MEM-2024.png
+Marcus Morris,Philadelphia 76ers,AP,34,37,7,637,2,5,0,2,1,3,0,0,2,0,0,6,6911103,17116279,"59,62263081491176",https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-2024.png
+Markieff Morris,Dallas Mavericks,AP,34,19,1,163,0,2,0,1,0,1,0,0,1,0,0,2,5010233,3196448,"-56,74377583201397",https://cdn.ssref.net/req/202312151/tlogo/bbr/DAL-2024.png
+Monte Morris,TOT,BA,28,17,0,241,2,5,0,2,1,3,0,0,1,2,0,5,6864856,9800926,"29,957064568324697",
+Trey Murphy III,New Orleans Pelicans,AL,23,38,10,1028,4,10,2,7,1,2,1,2,3,1,0,13,6243941,3359280,"-85,87141935566834",https://cdn.ssref.net/req/202312151/tlogo/bbr/NOP-2024.png
+Dejounte Murray,Atlanta Hawks,ES,27,60,60,2109,8,17,2,6,6,11,2,3,4,5,2,21,24673217,18214000,"-35,46292707498279",https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-2024.png
+Jamal Murray,Denver Nuggets,BA,26,48,48,1526,8,16,2,5,5,10,2,3,3,6,2,21,23550616,33833400,"30,39240259896801",https://cdn.ssref.net/req/202312151/tlogo/bbr/DEN-2024.png
+Keegan Murray,Sacramento Kings,AL,23,58,58,1909,5,12,2,6,3,6,1,1,3,1,0,14,8353428,8409000,"0,6608572416772933",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAC-2024.png
+Kris Murray,Portland Trail Blazers,AL,23,43,10,723,1,4,0,2,1,2,0,0,1,1,0,4,2969679,2847480,"-4,291506780350242",https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-2024.png
+Mike Muscala,TOT,P,32,38,6,520,1,3,0,2,0,1,0,0,1,0,0,3,5875021,808297,"-626,8394876624792",
+Svi Mykhailiuk,Boston Celtics,AL,26,26,0,206,1,2,0,2,0,0,0,0,0,0,0,2,3278855,2346614,"-39,727094130106124",https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-2024.png
+Andrew Nembhard,Indiana Pacers,BA,24,50,29,1187,3,7,0,2,3,5,0,0,1,4,1,9,7060956,2131905,"-231,2040950738122",https://cdn.ssref.net/req/202312151/tlogo/bbr/IND-2024.png
+Aaron Nesmith,Indiana Pacers,AL,24,55,30,1481,4,8,2,4,2,4,1,1,2,1,0,12,6917353,5634257,"-22,773127410544376",https://cdn.ssref.net/req/202312151/tlogo/bbr/IND-2024.png
+Georges Niang,Cleveland Cavaliers,AP,30,63,3,1362,3,7,1,4,1,2,0,0,3,1,0,8,8727469,8800000,"0,8242067964654416",https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-2024.png
+Zeke Nnaji,Denver Nuggets,AP,23,49,0,482,1,2,0,0,1,2,0,1,1,0,0,3,2815665,4306281,"34,61490396350993",https://cdn.ssref.net/req/202312151/tlogo/bbr/DEN-2024.png
+Jaylen Nowell,Memphis Grizzlies,ES,24,9,1,156,2,6,0,2,2,3,0,0,1,1,0,5,3741479,248850,"-1403,507958776488",https://cdn.ssref.net/req/202312151/tlogo/bbr/MEM-2024.png
+Frank Ntilikina,Charlotte Hornets,BA,25,5,0,43,0,1,0,1,0,0,0,0,1,0,0,1,3075676,2528233,"-21,653217270855336",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHO-2024.png
+Jordan Nwora,TOT,AL,25,35,1,380,2,4,0,2,1,2,0,0,1,1,0,5,3616218,3200000,"-13,006832770321328",
+Royce O'Neale,TOT,AL,30,61,12,1556,2,7,2,5,0,1,0,0,4,2,0,7,10083106,9500000,"-6,137968358863949",
+Chuma Okeke,Orlando Magic,AL,25,38,8,395,1,2,0,2,0,0,0,0,1,0,0,2,2910167,5266713,"44,74414655446954",https://cdn.ssref.net/req/202312151/tlogo/bbr/ORL-2024.png
+Josh Okogie,Phoenix Suns,ES,25,54,11,926,1,3,0,1,1,2,1,1,1,1,0,4,3374322,2815937,"-19,8294812841154",https://cdn.ssref.net/req/202312151/tlogo/bbr/PHO-2024.png
+Onyeka Okongwu,Atlanta Hawks,P,23,53,8,1367,4,6,0,1,3,5,1,2,4,1,0,10,5651757,8109063,"30,303194988650606",https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-2024.png
+Isaac Okoro,Cleveland Cavaliers,AL,23,54,31,1448,3,7,1,3,2,3,1,2,2,2,0,9,4688679,8920795,"47,44101463936012",https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-2024.png
+Kelly Olynyk,TOT,P,32,62,11,1294,3,5,0,1,2,3,1,2,3,4,1,8,11767526,12195122,"3,506282634055747",
+Eugene Omoruyi,Washington Wizards,AL,26,31,0,233,1,3,0,0,1,2,0,1,1,0,0,4,4153882,940566,"-341,63649648156684",https://cdn.ssref.net/req/202312151/tlogo/bbr/WAS-2024.png
+Cedi Osman,San Antonio Spurs,AL,28,63,1,1099,2,5,1,3,1,2,0,0,2,1,0,6,6539185,6718842,"2,673917866176892",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAS-2024.png
+Chris Paul,Golden State Warriors,BA,38,39,12,1048,3,7,1,3,1,3,1,1,3,7,1,9,20682534,30800000,"32,84891239526237",https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-2024.png
+Cameron Payne,TOT,BA,29,59,5,948,2,5,1,3,1,2,0,1,1,2,0,7,7710198,2891467,"-166,6535028901888",
+Gary Payton II,Golden State Warriors,ES,31,28,0,435,2,4,0,1,1,3,0,0,1,0,0,5,6492289,8715000,"25,50442105508242",https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-2024.png
+Julian Phillips,Chicago Bulls,AL,20,38,0,283,0,1,0,0,0,0,0,0,0,0,0,2,2553280,1600000,"-59,58003360596297",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-2024.png
+Jalen Pickett,Denver Nuggets,ES,24,21,0,108,0,1,0,1,0,0,0,0,0,0,0,1,2486736,1708143,"-45,58130834603584",https://cdn.ssref.net/req/202312151/tlogo/bbr/DEN-2024.png
+Mason Plumlee,Los Angeles Clippers,P,33,28,9,476,2,3,0,0,2,3,1,2,4,1,0,6,8076298,5000000,"-61,525968675808414",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAC-2024.png
+Brandin Podziemski,Golden State Warriors,ES,20,55,22,1476,3,8,1,3,2,5,0,1,4,3,1,9,5128688,3352440,"-52,98376458156777",https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-2024.png
+Jakob Poeltl,Toronto Raptors,P,28,50,50,1319,4,7,0,0,4,7,1,2,5,2,1,11,16326069,19500000,"16,276564676544183",https://cdn.ssref.net/req/202312151/tlogo/bbr/TOR-2024.png
+Aleksej Pokusevski,TOT,AP,22,11,0,68,0,1,0,1,0,0,0,0,0,0,0,1,2324746,565176,"-311,33148731930646",
+Jordan Poole,Washington Wizards,ES,24,61,52,1795,5,14,2,6,3,7,2,2,2,3,2,16,18544293,28705357,"35,397794009338455",https://cdn.ssref.net/req/202312151/tlogo/bbr/WAS-2024.png
+Craig Porter Jr.,Cleveland Cavaliers,BA,23,39,5,522,2,4,0,0,2,4,0,1,1,2,0,5,3115464,1866574,"-66,90817057689416",https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-2024.png
+Michael Porter Jr.,Denver Nuggets,AL,25,63,63,1997,6,13,2,6,3,6,1,1,5,1,1,16,23261131,33386850,"30,328463709293068",https://cdn.ssref.net/req/202312151/tlogo/bbr/DEN-2024.png
+Bobby Portis,Milwaukee Bucks,AP,28,64,1,1537,5,10,1,3,4,7,1,1,5,1,1,13,13392881,11710818,"-14,363328581541651",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-2024.png
+Dwight Powell,Dallas Mavericks,P,32,52,8,748,1,1,0,0,1,1,1,1,1,1,0,3,5052824,4000000,"-26,32061523740592",https://cdn.ssref.net/req/202312151/tlogo/bbr/DAL-2024.png
+Norman Powell,Los Angeles Clippers,ES,30,61,1,1574,4,9,2,4,2,4,1,2,2,1,0,13,13506317,18000000,"24,964902937693914",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAC-2024.png
+Taurean Prince,Los Angeles Lakers,AP,29,62,49,1771,3,7,1,4,1,2,0,0,2,1,0,9,8532526,4516000,"-88,93991317610566",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-2024.png
+Payton Pritchard,Boston Celtics,BA,26,63,0,1278,2,6,1,4,1,2,0,0,2,2,0,7,5249888,4037278,"-30,035353903648254",https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-2024.png
+Neemias Queta,Boston Celtics,P,24,23,0,283,2,3,0,0,2,3,0,0,2,0,0,4,3418389,250000,"-1267,3558727567229",https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-2024.png
+Immanuel Quickley,TOT,ES,24,59,29,1691,5,12,2,6,3,6,2,3,3,4,1,16,12905273,4171548,"-209,36413108553828",
+Julius Randle,New York Knicks,AP,29,46,46,1630,8,18,1,5,6,12,5,6,7,4,3,23,32830689,25660800,"-27,941020309551707",https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-2024.png
+Duop Reath,Portland Trail Blazers,P,27,49,16,897,3,7,1,3,2,3,1,1,2,1,0,9,7822495,2324408,"-236,53712004072761",https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-2024.png
+Austin Reaves,Los Angeles Lakers,ES,25,65,40,2052,5,11,1,4,3,6,2,3,3,5,2,15,15960901,12015150,"-32,83980471687589",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-2024.png
+Cam Reddish,Los Angeles Lakers,AL,24,40,26,886,2,5,0,2,1,2,0,1,1,1,0,6,3410382,2165000,"-57,52344302445138",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-2024.png
+Paul Reed,Philadelphia 76ers,P,24,63,23,1171,3,5,0,0,2,5,0,0,3,1,0,7,3900902,7723000,"49,48980397944927",https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-2024.png
+Naz Reid,Minnesota Timberwolves,P,24,64,0,1484,4,9,1,4,2,5,1,1,3,1,1,12,7784471,12950400,"39,89010941871419",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIN-2024.png
+Nick Richards,Charlotte Hornets,P,26,54,41,1419,3,5,0,0,3,5,2,2,5,0,1,9,13866018,5000000,"-177,32037972502653",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHO-2024.png
+Josh Richardson,Miami Heat,ES,30,43,6,1103,3,8,1,4,2,3,1,1,2,2,0,9,10947202,2891467,"-278,6037464177332",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIA-2024.png
+Duncan Robinson,Miami Heat,AL,29,58,26,1639,4,10,2,6,1,3,1,1,2,2,1,13,14057826,18154000,"22,563473836724327",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIA-2024.png
+Mitchell Robinson,New York Knicks,P,25,21,21,613,2,4,0,0,2,4,0,1,4,0,1,6,5377502,15681818,"65,70867862092426",https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-2024.png
+Orlando Robinson,Miami Heat,P,23,27,7,273,1,2,0,0,0,1,0,0,2,1,0,3,2909596,1801769,"-61,48555435642354",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIA-2024.png
+David Roddy,TOT,AP,22,55,13,1146,2,7,0,2,2,4,0,1,2,1,1,7,3495185,2718240,"-28,582681988257026",
+Ryan Rollins,Washington Wizards,BA,21,10,0,66,1,2,0,0,1,2,1,1,0,1,0,4,3163924,1719864,"-83,96366854777759",https://cdn.ssref.net/req/202312151/tlogo/bbr/WAS-2024.png
+Derrick Rose,Memphis Grizzlies,BA,35,24,7,399,3,6,0,1,2,5,1,1,1,3,1,7,9708087,3196448,"-203,71484835941408",https://cdn.ssref.net/req/202312151/tlogo/bbr/MEM-2024.png
+Terry Rozier,TOT,ES,29,46,45,1564,7,16,2,6,5,9,3,3,3,6,1,20,29460732,23205221,"-26,957344110114562",
+Rayan Rupert,Portland Trail Blazers,ES,19,22,0,209,1,2,0,1,0,1,0,0,1,0,0,2,2947544,1119563,"-163,2763423443063",https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-2024.png
+D'Angelo Russell,Los Angeles Lakers,BA,27,60,53,1914,6,14,2,6,3,7,2,2,2,6,1,18,19745696,17307693,"-14,086243942938392",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-2024.png
+Domantas Sabonis,Sacramento Kings,P,27,62,62,2218,8,13,0,1,7,12,3,4,10,8,3,20,27368999,30600000,"10,558824503685317",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAC-2024.png
+Gui Santos,Golden State Warriors,AP,21,17,0,147,1,2,0,1,0,1,0,0,1,0,0,3,2938424,1029483,"-185,4271945487032",https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-2024.png
+Marcus Sasser,Detroit Pistons,BA,23,54,0,876,2,6,1,2,1,3,0,0,1,2,1,7,3396503,2624040,"-29,437943176679433",https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-2024.png
+Dennis Schröder,TOT,BA,30,64,42,1948,4,11,1,4,3,6,2,2,2,6,1,13,21318611,12405000,"-71,85499189864626",
+Alperen Sengun,Houston Rockets,P,21,62,62,2016,8,15,0,1,7,13,3,5,6,5,2,21,9484499,3536400,"-168,1964691184399",https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-2024.png
+Brice Sensabaugh,Utah Jazz,AL,20,14,2,171,1,4,0,2,1,2,0,0,1,0,1,5,3382452,2448600,"-38,13823027341122",https://cdn.ssref.net/req/202312151/tlogo/bbr/UTA-2024.png
+Collin Sexton,Utah Jazz,ES,25,64,41,1626,6,12,1,4,4,8,4,4,1,4,1,18,18477682,17325000,"-6,653292307659575",https://cdn.ssref.net/req/202312151/tlogo/bbr/UTA-2024.png
+Landry Shamet,Washington Wizards,ES,26,45,5,719,2,6,1,3,1,2,0,1,1,1,0,7,4774167,10250000,"53,42275391327244",https://cdn.ssref.net/req/202312151/tlogo/bbr/WAS-2024.png
+Day'Ron Sharpe,Brooklyn Nets,P,22,47,1,729,2,4,0,0,2,4,1,2,3,1,1,7,3541758,2210160,"-60,24897217217692",https://cdn.ssref.net/req/202312151/tlogo/bbr/BRK-2024.png
+Shaedon Sharpe,Portland Trail Blazers,ES,20,32,25,1059,5,13,1,5,3,7,3,3,3,2,2,15,6252276,6313800,"0,9744343152795284",https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-2024.png
+Ben Sheppard,Indiana Pacers,ES,22,39,0,468,1,3,0,2,0,1,0,0,1,0,0,4,2900488,2537160,"-14,320270689642564",https://cdn.ssref.net/req/202312151/tlogo/bbr/IND-2024.png
+Pascal Siakam,TOT,AP,29,62,62,2107,8,15,1,3,7,12,3,4,4,4,1,21,30700875,37893408,"18,980958623718408",
+Ben Simmons,Brooklyn Nets,BA,27,15,12,359,2,4,0,0,2,4,0,1,5,5,1,6,17545956,37893408,"53,6965462502643",https://cdn.ssref.net/req/202312151/tlogo/bbr/BRK-2024.png
+Anfernee Simons,Portland Trail Blazers,ES,24,40,40,1380,7,18,3,8,4,9,3,3,3,5,2,22,22415849,24107143,"7,015737262950927",https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-2024.png
+Jericho Sims,New York Knicks,P,25,36,10,488,1,1,0,0,1,1,0,0,2,0,0,2,2860988,1927896,"-48,399522610146974",https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-2024.png
+Dmytro Skapintsev,New York Knicks,P,25,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2472898,35389,"-6887,760241319823",https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-2024.png
+Javonte Smart,Philadelphia 76ers,BA,24,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2159206,196245,"-1000,2608854380254",https://cdn.ssref.net/req/202312151/tlogo/bbr/PHI-2024.png
+Marcus Smart,Memphis Grizzlies,BA,29,20,20,605,5,11,2,6,3,5,2,2,2,4,3,14,22530509,18583713,"-21,23793493094447",https://cdn.ssref.net/req/202312151/tlogo/bbr/MEM-2024.png
+Dennis Smith Jr.,Brooklyn Nets,BA,26,48,2,945,2,6,0,1,2,4,0,1,2,3,1,6,5473837,2528233,"-116,50841829315522",https://cdn.ssref.net/req/202312151/tlogo/bbr/BRK-2024.png
+Dru Smith,Miami Heat,ES,26,9,0,131,1,3,0,1,0,1,0,0,0,1,0,4,4488134,1801769,"-149,09600308140057",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIA-2024.png
+Ish Smith,Charlotte Hornets,BA,35,43,5,741,1,3,0,0,1,3,0,0,1,3,1,3,5637553,3196448,"-76,36930346499142",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHO-2024.png
+Jabari Smith Jr.,Houston Rockets,AP,20,58,58,1861,4,10,1,4,3,6,1,2,6,1,1,13,6056518,9326520,"35,061321923735676",https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-2024.png
+Jalen Smith,Indiana Pacers,P,23,45,13,799,4,6,1,2,3,4,1,1,3,1,0,10,5257733,5043773,"-4,242079625666078",https://cdn.ssref.net/req/202312151/tlogo/bbr/IND-2024.png
+Nick Smith Jr.,Charlotte Hornets,ES,19,39,0,605,2,5,1,2,1,2,0,0,1,1,0,6,3103759,2463960,"-25,966317918354992",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHO-2024.png
+Jeremy Sochan,San Antonio Spurs,AP,20,64,63,1892,4,10,0,2,3,7,1,1,4,3,1,11,5407740,5316960,"-1,7073750172051247",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAS-2024.png
+Jaden Springer,TOT,ES,21,38,1,397,1,3,0,1,1,2,0,0,0,0,0,3,2963867,2226360,"-33,126164895279246",
+Lamar Stevens,TOT,AP,26,30,2,352,2,4,0,0,2,4,0,1,2,0,0,5,4160944,2092354,"-98,8642480245974",
+Isaiah Stewart,Detroit Pistons,AP,22,41,40,1266,4,8,1,3,2,4,1,1,5,1,1,10,6099015,5266713,"-15,803072519155615",https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-2024.png
+Julian Strawther,Denver Nuggets,AL,21,40,0,496,1,5,0,3,0,1,0,0,1,1,0,5,3007399,2431080,"-23,706308385064204",https://cdn.ssref.net/req/202312151/tlogo/bbr/DEN-2024.png
+Max Strus,Cleveland Cavaliers,AL,27,60,60,1932,4,10,2,7,1,3,1,1,3,3,1,12,12300249,14487684,"15,098576678100628",https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-2024.png
+Jalen Suggs,Orlando Magic,ES,22,58,58,1543,4,9,2,5,2,4,1,1,2,2,1,12,5736968,7252200,"20,893399130081566",https://cdn.ssref.net/req/202312151/tlogo/bbr/ORL-2024.png
+Jae'Sean Tate,Houston Rockets,AL,28,54,9,910,1,3,0,1,1,2,0,0,2,1,0,4,5480106,6500000,"15,690673874601291",https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-2024.png
+Jayson Tatum,Boston Celtics,AP,25,60,60,2154,9,19,3,8,6,10,5,6,7,4,2,26,27586926,32600060,"15,377682807192517",https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-2024.png
+Terry Taylor,Chicago Bulls,AP,24,24,0,161,0,1,0,0,0,1,0,0,0,0,0,1,2445409,2019706,"-21,07747759601908",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-2024.png
+Garrett Temple,Toronto Raptors,ES,37,15,0,69,0,1,0,0,0,0,0,0,0,0,0,1,3498758,3196448,"-9,457707014119956",https://cdn.ssref.net/req/202312151/tlogo/bbr/TOR-2024.png
+Dalen Terry,Chicago Bulls,ES,21,41,1,405,0,2,0,1,0,0,0,0,1,1,0,2,2607577,3350760,"22,17953012480493",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-2024.png
+Daniel Theis,TOT,P,31,47,3,811,2,4,0,1,2,3,0,0,2,1,0,6,6601263,2179511,"-202,87817990329754",
+Cam Thomas,Brooklyn Nets,ES,22,49,34,1461,7,17,2,5,5,11,3,4,2,2,1,21,8264114,2240040,"-268,92707472298684",https://cdn.ssref.net/req/202312151/tlogo/bbr/BRK-2024.png
+Amen Thompson,Houston Rockets,AL,21,44,6,865,3,6,0,1,2,5,1,2,3,2,1,7,3702803,8809320,"57,96720443069129",https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-2024.png
+Ausar Thompson,Detroit Pistons,AL,21,63,38,1583,3,7,0,1,3,5,1,1,4,1,1,8,4782208,7977480,"40,05364373981889",https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-2024.png
+Klay Thompson,Golden State Warriors,AL,33,60,51,1779,6,14,3,8,2,5,1,1,2,2,1,17,26352321,43219440,"39,02669281109891",https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-2024.png
+Tristan Thompson,Cleveland Cavaliers,P,32,36,0,446,1,2,0,0,1,2,0,1,2,1,0,3,5317314,3196448,"-66,3507376636315",https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-2024.png
+Matisse Thybulle,Portland Trail Blazers,AL,26,60,19,1401,1,4,1,3,0,1,0,0,1,1,0,5,4628450,10500000,"55,91952242163434",https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-2024.png
+Jacob Toppin,New York Knicks,AL,23,9,0,38,0,1,0,0,0,0,0,0,0,0,0,1,2287902,453617,"-404,3688214233568",https://cdn.ssref.net/req/202312151/tlogo/bbr/NYK-2024.png
+Obi Toppin,Indiana Pacers,AP,25,64,28,1400,4,7,1,3,2,4,0,1,2,1,0,10,6498362,6803012,"4,47815370066534",https://cdn.ssref.net/req/202312151/tlogo/bbr/IND-2024.png
+Karl-Anthony Towns,Minnesota Timberwolves,AP,28,60,60,1969,7,15,2,5,5,10,4,4,6,2,2,22,29198911,36016200,"18,928393423998852",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIN-2024.png
+Gary Trent Jr.,Toronto Raptors,ES,25,59,29,1613,4,10,2,6,2,4,0,1,2,1,0,12,9790070,18785000,"47,88357672401181",https://cdn.ssref.net/req/202312151/tlogo/bbr/TOR-2024.png
+P.J. Tucker,TOT,AP,38,18,3,269,0,1,0,0,0,0,0,0,1,0,0,1,3803520,11014500,"65,46805696096703",
+Myles Turner,Indiana Pacers,P,27,60,60,1633,6,11,1,4,4,7,3,4,5,1,1,17,21812548,20975000,"-3,99308212589461",https://cdn.ssref.net/req/202312151/tlogo/bbr/IND-2024.png
+Hunter Tyson,Denver Nuggets,AP,23,11,0,32,0,1,0,0,0,0,0,0,0,0,0,0,2243733,1119563,"-100,41151824031897",https://cdn.ssref.net/req/202312151/tlogo/bbr/DEN-2024.png
+Stanley Umude,Detroit Pistons,ES,24,18,0,204,1,3,1,1,0,1,1,1,1,0,0,5,2838905,934168,"-203,89667054867374",https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-2024.png
+Jarred Vanderbilt,Los Angeles Lakers,AP,24,29,6,581,2,3,0,0,1,3,0,1,3,1,0,5,3564274,4698000,"24,132096142587017",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-2024.png
+Fred VanVleet,Houston Rockets,BA,29,56,56,2059,5,13,3,7,2,5,2,2,3,8,1,16,29257378,40806300,"28,301808790389043",https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-2024.png
+Devin Vassell,San Antonio Spurs,ES,23,58,52,1876,7,15,2,6,4,8,2,3,3,3,1,19,12884686,5887899,"-118,83335288639176",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAS-2024.png
+Sasha Vezenkov,Sacramento Kings,AP,28,35,0,440,2,4,1,2,1,1,0,0,1,0,0,5,5838162,6341464,"7,936672433467389",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAC-2024.png
+Gabe Vincent,Los Angeles Lakers,BA,27,5,0,126,2,6,0,3,2,3,0,0,0,3,0,5,6807233,10500000,"35,16920753345182",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-2024.png
+Dean Wade,Cleveland Cavaliers,AP,27,54,32,1108,1,4,1,3,0,0,0,0,3,0,0,5,5763187,5709877,"-0,9336585197501421",https://cdn.ssref.net/req/202312151/tlogo/bbr/CLE-2024.png
+Franz Wagner,Orlando Magic,AL,22,56,56,1855,7,15,1,4,6,10,3,4,4,3,2,20,7996557,5508720,"-45,16180060608706",https://cdn.ssref.net/req/202312151/tlogo/bbr/ORL-2024.png
+Moritz Wagner,Orlando Magic,P,26,62,1,1138,4,7,0,1,3,5,2,2,3,1,1,11,9303338,8000000,"-16,291735091506972",https://cdn.ssref.net/req/202312151/tlogo/bbr/ORL-2024.png
+Ish Wainright,Portland Trail Blazers,AL,29,7,0,46,0,2,0,2,0,0,0,0,1,0,0,2,4590505,853149,"-438,06608964281145",https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-2024.png
+Jabari Walker,Portland Trail Blazers,AL,21,57,15,1260,3,6,0,1,2,4,1,2,4,0,0,8,3958584,1719864,"-130,1684850971234",https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-2024.png
+Jarace Walker,Indiana Pacers,AP,20,22,0,224,1,3,0,1,0,1,0,0,1,1,0,3,3191882,6059520,"47,324491531801264",https://cdn.ssref.net/req/202312151/tlogo/bbr/IND-2024.png
+Cason Wallace,Oklahoma City Thunder,ES,20,63,9,1281,2,5,1,2,1,2,0,0,1,1,0,6,3333566,5291400,"37,00028936719898",https://cdn.ssref.net/req/202312151/tlogo/bbr/OKC-2024.png
+Jordan Walsh,Boston Celtics,AL,19,3,0,33,0,1,0,0,0,0,0,0,2,0,0,0,2472916,1119563,"-120,88232302245146",https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-2024.png
+P.J. Washington,TOT,AP,25,56,28,1668,5,11,1,5,3,5,1,2,4,2,1,13,10881280,16847826,"35,41433279369634",
+Yuta Watanabe,TOT,AL,29,34,0,464,1,3,0,2,0,0,0,0,1,0,0,3,5367535,2346614,"-128,735325579044",
+Trendon Watford,Brooklyn Nets,AP,23,46,0,536,2,4,0,0,1,3,0,1,1,1,0,5,2914477,2019706,"-44,30204970741261",https://cdn.ssref.net/req/202312151/tlogo/bbr/BRK-2024.png
+Peyton Watson,Denver Nuggets,AL,21,62,4,1138,2,5,0,2,1,3,0,1,2,1,0,6,3190065,2303520,"-38,486539030419316",https://cdn.ssref.net/req/202312151/tlogo/bbr/DEN-2024.png
+Victor Wembanyama,San Antonio Spurs,P,20,56,56,1610,7,16,1,5,5,11,3,4,8,3,3,20,7593354,12160680,"37,55813926010788",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAS-2024.png
+Blake Wesley,San Antonio Spurs,ES,20,43,1,573,1,3,0,0,1,2,0,1,1,2,0,4,3046436,2504640,"-21,631727197044075",https://cdn.ssref.net/req/202312151/tlogo/bbr/SAS-2024.png
+Russell Westbrook,Los Angeles Clippers,BA,35,58,10,1313,4,9,0,2,3,7,1,2,3,4,2,11,17041589,3835738,"-344,2844899978357",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAC-2024.png
+Coby White,Chicago Bulls,BA,23,64,64,2361,6,15,2,7,4,7,2,3,4,5,2,19,11829678,12444444,"4,940079966065739",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-2024.png
+Derrick White,Boston Celtics,ES,29,59,59,1900,5,11,2,6,2,4,1,2,3,5,1,15,20058804,18107143,"-10,778405892660553",https://cdn.ssref.net/req/202312151/tlogo/bbr/BOS-2024.png
+Cam Whitmore,Houston Rockets,AL,19,37,1,658,4,9,1,4,2,5,1,2,2,0,0,12,5110205,3218160,"-58,79278003541486",https://cdn.ssref.net/req/202312151/tlogo/bbr/HOU-2024.png
+Aaron Wiggins,Oklahoma City Thunder,ES,25,60,0,878,2,4,0,1,1,2,0,0,1,0,0,6,3347607,1836096,"-82,3220108772999",https://cdn.ssref.net/req/202312151/tlogo/bbr/OKC-2024.png
+Andrew Wiggins,Golden State Warriors,AL,28,54,42,1443,4,10,1,3,3,7,1,2,2,1,1,12,13711751,24330357,"43,64344336530582",https://cdn.ssref.net/req/202312151/tlogo/bbr/GSW-2024.png
+Lindell Wigginton,Milwaukee Bucks,BA,25,3,0,8,0,1,0,0,0,1,0,0,0,0,0,2,2690098,244502,"-1000,2357426914488",https://cdn.ssref.net/req/202312151/tlogo/bbr/MIL-2024.png
+Grant Williams,TOT,AP,25,60,36,1643,3,7,1,4,1,2,1,1,2,1,1,9,5887682,12405000,"52,53783126301757",
+Jalen Williams,Oklahoma City Thunder,AP,22,57,57,1820,7,13,1,3,6,10,2,3,3,4,1,19,7610947,4558680,"-66,95506658407676",https://cdn.ssref.net/req/202312151/tlogo/bbr/OKC-2024.png
+Jaylin Williams,Oklahoma City Thunder,P,21,51,0,645,1,3,0,2,0,1,0,0,2,1,0,3,2829187,2000000,"-41,45938889069117",https://cdn.ssref.net/req/202312151/tlogo/bbr/OKC-2024.png
+Kenrich Williams,Oklahoma City Thunder,AP,29,51,1,726,1,3,0,1,0,1,0,0,2,1,0,4,6387993,6175000,"-3,449285927872954",https://cdn.ssref.net/req/202312151/tlogo/bbr/OKC-2024.png
+Mark Williams,Charlotte Hornets,P,22,19,19,508,5,7,0,0,5,7,2,3,5,1,0,12,8009574,3908160,"-104,94490887583862",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHO-2024.png
+Patrick Williams,Chicago Bulls,AP,22,43,30,1174,3,8,1,3,2,4,1,1,2,1,1,9,4823069,9835881,"50,96453611735933",https://cdn.ssref.net/req/202312151/tlogo/bbr/CHI-2024.png
+Robert Williams,Portland Trail Blazers,P,26,6,0,118,2,4,0,0,2,4,1,1,4,0,1,6,5236792,11812501,"55,66737207256779",https://cdn.ssref.net/req/202312151/tlogo/bbr/POR-2024.png
+Vince Williams Jr.,Memphis Grizzlies,ES,23,52,33,1436,3,7,1,4,1,3,2,2,4,3,1,10,5684644,2486462,"-128,62382366182644",https://cdn.ssref.net/req/202312151/tlogo/bbr/MEM-2024.png
+Ziaire Williams,Memphis Grizzlies,AL,22,51,15,1038,2,7,1,3,1,3,1,1,2,1,1,8,3703504,4810200,"23,00726912336543",https://cdn.ssref.net/req/202312151/tlogo/bbr/MEM-2024.png
+Zion Williamson,New Orleans Pelicans,AP,23,52,52,1591,8,15,0,0,8,14,4,6,3,5,2,22,23781432,34005250,"30,065408030763745",https://cdn.ssref.net/req/202312151/tlogo/bbr/NOP-2024.png
+Jalen Wilson,Brooklyn Nets,AP,23,26,1,374,1,3,0,1,1,2,0,0,1,1,0,4,2929453,707770,"-313,89905464846987",https://cdn.ssref.net/req/202312151/tlogo/bbr/BRK-2024.png
+James Wiseman,Detroit Pistons,P,22,44,0,647,2,4,0,0,2,4,0,1,2,0,0,6,3270760,12119440,"73,01228434099339",https://cdn.ssref.net/req/202312151/tlogo/bbr/DET-2024.png
+Christian Wood,Los Angeles Lakers,AP,28,50,1,872,2,5,0,2,1,3,1,1,4,0,1,6,6743767,2709849,"-148,861391746306",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAL-2024.png
+Delon Wright,TOT,BA,31,36,1,512,1,3,0,1,1,2,0,0,1,2,0,4,5324090,947205,"-462,08427483901727",
+Thaddeus Young,TOT,AP,35,25,6,379,2,3,0,0,2,3,0,0,1,2,0,4,6670936,1010371,"-560,2462853551536",
+Trae Young,Atlanta Hawks,BA,25,51,51,1862,8,19,3,8,4,10,6,7,2,10,4,26,31900349,40064220,"20,376961285938993",https://cdn.ssref.net/req/202312151/tlogo/bbr/ATL-2024.png
+Omer Yurtseven,Utah Jazz,P,25,35,6,317,1,2,0,0,1,2,0,0,2,0,0,3,3165687,2800000,"-13,060260422921374",https://cdn.ssref.net/req/202312151/tlogo/bbr/UTA-2024.png
+Cody Zeller,New Orleans Pelicans,P,31,39,0,301,0,1,0,0,0,1,0,0,1,0,0,1,3416725,3196448,"-6,891335062874246",https://cdn.ssref.net/req/202312151/tlogo/bbr/NOP-2024.png
+Ivica Zubac,Los Angeles Clippers,P,26,50,50,1311,4,7,0,0,4,7,1,2,6,1,1,11,16624139,10933333,"-52,05006494751255",https://cdn.ssref.net/req/202312151/tlogo/bbr/LAC-2024.png
